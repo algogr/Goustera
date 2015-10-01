@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/weight.jpg</file>
+        <file>images/navigation_previous_item.png</file>
+        <file>images/order_edit.png</file>
+        <file>images/order_new.png</file>
+        <file>images/Calendar.ico</file>
+        <file>images/farmer.png</file>
+        <file>images/navigation_next_item.png</file>
+        <file>images/android-add-image.png</file>
+        <file>images/android-delete.png</file>
+        <file>images/android-edit-image.png</file>
+        <file>images/fruit.png</file>
+        <file>images/pallets.png</file>
+        <file>images/pomegranate.png</file>
+        <file>images/kiwi.png</file>
+        <file>images/configuration.png</file>
+        <file>images/checkin.png</file>
+        <file>images/recycle.png</file>
+    </qresource>
+</RCC>

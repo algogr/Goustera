@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NavigationBar.qml</file>
+        <file>Deliveries.qml</file>
+        <file>Delivery.qml</file>
+        <file>SupplierList.qml</file>
+        <file>TwoColListDelegate.qml</file>
+        <file>DeliveryList.qml</file>
+        <file>ThreeColListDelegate.qml</file>
+        <file>Selections.qml</file>
+        <file>PomeSelection.qml</file>
+        <file>PomeSelections.qml</file>
+        <file>PomeSelectionList.qml</file>
+        <file>Parameters.qml</file>
+        <file>ParametersDelegate.qml</file>
+    </qresource>
+</RCC>
